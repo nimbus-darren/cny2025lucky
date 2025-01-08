@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nimbus-darren/cny2025lucky/static/css/main.9a15b0e8.css",
+    "main.js": "/nimbus-darren/cny2025lucky/static/js/main.0f3cd0dc.js",
+    "static/media/snakebackground.png": "/nimbus-darren/cny2025lucky/static/media/snakebackground.a4d66e214c599897ee1d.png",
+    "static/media/rooster.png": "/nimbus-darren/cny2025lucky/static/media/rooster.c46962d4768f8c869d1f.png",
+    "static/media/rat.png": "/nimbus-darren/cny2025lucky/static/media/rat.e709228662e2a5d65b86.png",
+    "static/media/monkey.png": "/nimbus-darren/cny2025lucky/static/media/monkey.db26ea2ed66daa93b376.png",
+    "static/media/rabbit.png": "/nimbus-darren/cny2025lucky/static/media/rabbit.956217f88854573cb89f.png",
+    "static/media/dragon.png": "/nimbus-darren/cny2025lucky/static/media/dragon.95affd7ecd813d730390.png",
+    "static/media/snake.png": "/nimbus-darren/cny2025lucky/static/media/snake.6f2e3fdf8fe8fa95ad9f.png",
+    "static/media/ox.png": "/nimbus-darren/cny2025lucky/static/media/ox.9b0ecec1daa15e58d10d.png",
+    "static/media/horse.png": "/nimbus-darren/cny2025lucky/static/media/horse.c9e580d81ed440c5f1c9.png",
+    "static/media/tiger.png": "/nimbus-darren/cny2025lucky/static/media/tiger.0b13a9b18b9478d8f9cc.png",
+    "static/media/pig.png": "/nimbus-darren/cny2025lucky/static/media/pig.7cd2fea9412a1ae2c670.png",
+    "static/media/goat.png": "/nimbus-darren/cny2025lucky/static/media/goat.ffcac6a6412b4b2d409d.png",
+    "static/media/dog.png": "/nimbus-darren/cny2025lucky/static/media/dog.f5855abeafb7dd2a2097.png",
+    "index.html": "/nimbus-darren/cny2025lucky/index.html",
+    "main.9a15b0e8.css.map": "/nimbus-darren/cny2025lucky/static/css/main.9a15b0e8.css.map",
+    "main.0f3cd0dc.js.map": "/nimbus-darren/cny2025lucky/static/js/main.0f3cd0dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a15b0e8.css",
+    "static/js/main.0f3cd0dc.js"
+  ]
+}
