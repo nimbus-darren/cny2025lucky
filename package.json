@@ -1,7 +1,7 @@
 {
   "name": "cny2025fortunegenerator",
   "version": "0.1.0",
-  "homepage": "https://github.com/nimbus-darren/cny2025lucky/",
+  "homepage": "https://github.com/nimbus-darren/cny2025lucky",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
